@@ -11,7 +11,7 @@ A repository to store resources on peace initiatives, technology, organizations,
 
 
 ### Contributing
-Find out how to add to Peace Resource in our [contributing guide](/Contributing.md)
+Find out how to add to Peace Resource in our [contributing guide](Contributing.md)
 ### Initiatives <a id="initiatives"></a>
  - [Blockchain For Social Impact](https://www.consensys.net/)
  
