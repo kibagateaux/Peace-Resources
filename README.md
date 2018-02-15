@@ -2,12 +2,16 @@
 A repository to store resources on peace initiatives, technology, organizations, and events
 
 ### Table of Contents
+* [Contributing](#contributing)
 * [Initiatives](#initiatives)
 * [Ogranizations](#organizations)
 * [Technology](#technology)
 * [Events](#events)
 * [Literature](#literature)
 
+
+### Contributing
+Find out how to add to Peace Resource in our [contributing guide](/Contributing.md)
 ### Initiatives <a id="initiatives"></a>
  - [Blockchain For Social Impact](https://www.consensys.net/)
  
