@@ -1,7 +1,5 @@
-**Much love to [Principles.Design](https://principles.design/) for being our role model and for the content of this page.**
-
 # Contributing
-You don't need to be able to code but you will need a (free) GitHub account in order to contribute.
+**You don't need to be able to code but you will need a (free) GitHub account in order to contribute.**
 
 - Find the page you want to edit on our [Github repository](https://github.com/kibagateaux/Peace-Resources/).
 - The file name is the last part of the website you want to change e.g. https://kibagateaux.github.io/Peace-Resources/[FILE_NAME].md
