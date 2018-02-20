@@ -1,5 +1,9 @@
 # Peace-Resources
-While attending a Peace innovation conference the attendees quickly realized that we did not know what each other was doing, or even heard of some of our organizations, despite being a small, selected group. Peace Accelerators took the initiative to compile a list of resources so anyone interested in Peace technology can stay up to date, find partners, and tools to make Peace more accessible. This is a completely open-sourced repository collectively maintained by the entire Peace community, contribute [here](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
+
+### Why we need open-sourced peace resources!
+While attending a Peace innovation conference the attendees quickly realized that we did not know what each other was doing, or even heard of some of our organizations, despite being a small, selected group. Peace Accelerators took the initiative to compile a list of resources so anyone interested in Peace technology can stay up to date, find partners, and tools to make Peace more accessible. This is a completely open-sourced repository collectively maintained by the entire Peace community, [contribute here](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
+
+
 
 ### Table of Contents
 * [Contributing](#contributing)
@@ -8,9 +12,13 @@ While attending a Peace innovation conference the attendees quickly realized tha
 * [Technology](#technology)
 * [Events](#events)
 * [Literature](#literature)
+___
 
+### Contributing <a id="contributing"></a>
+This catalog is community driven, hence your contribution to this is invaluable!!
 
-### Contributing
+It is very simple to contribute / share causes, contacts, articles, and possible solutions to the 5 main sections of the catalog.
+
 Find out how to add to Peace Resource in our [contributing guide](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
 ___
 
