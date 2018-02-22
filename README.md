@@ -1,6 +1,6 @@
 # Peace-Resources
 
-### Why we need open-sourced peace resources!
+### Why do we need open-sourced peace resources?
 While attending a Peace innovation conference the attendees quickly realized that we did not know what each other was doing, or even heard of some of our organizations, despite being a small, selected group. Peace Accelerators took the initiative to compile a list of resources so anyone interested in Peace technology can stay up to date, find partners, and tools to make Peace more accessible. This is a completely open-sourced repository collectively maintained by the entire Peace community, [contribute here](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
 
 
