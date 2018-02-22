@@ -21,7 +21,7 @@ This catalog is community driven, hence your contribution to this is invaluable!
 
 It is very simple to contribute / share causes, contacts, articles, and possible solutions to the 5 main sections of the catalog.
 
-Find out how to add to Peace Resource in our [contributing guide](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
+Find out how to add to [Peace Resources](https://kibagateaux.github.io/Peace-Resources/) in our [contributing guide](https://github.com/kibagateaux/Peace-Resources/blob/master/Contributing.md)
 
 ___
 
