@@ -56,3 +56,4 @@ ___
 
 ### Literature <a id="literature"></a>
   - [A Blueprint For Pro-Peace Innovation](http://hir.harvard.edu/article/?a=14188)
+  - [What Is Peace? - Defining Humanities Ultimate Goal](https://www.peaceaccelerators.com/peace-oracle/2018/2/1/what-is-peace)
